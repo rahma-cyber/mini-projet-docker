@@ -1,0 +1,1 @@
+﻿<h1>Application Web Docker</h1><p>Image : <code>rourou2006/mon-app:1.0</code></p><p>Lancement : <code>docker run -d --name mon-app -p 8080:5000 --memory=256m --cpus=0.5 -e APP_MESSAGE='Bonjour' rourou2006/mon-app:1.0</code></p>
